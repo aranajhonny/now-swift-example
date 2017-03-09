@@ -2,7 +2,7 @@
 
 #### Kitura is a high performance and simple to use web framework for building modern Swift applications.
 
-This repo demonstrates deployment of the [Kitura](https://ghost.org/) using Node.js and Now.
+This repo demonstrates deployment of the [Kitura](https://developer.ibm.com/swift/) using Node.js and Now.
 
 ## How to deploy
 

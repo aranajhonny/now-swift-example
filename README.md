@@ -15,6 +15,10 @@ $ cd now-swift-example
 $ now
 ```
 
-> Example: https://now-swift-example-pgjwksmbpn.now.sh/
+> Example: https://now-swift-example.now.sh/
 
-> Source: https://now-swift-example-pgjwksmbpn.now.sh/_src
+> Source: https://now-swift-example.now.sh/_src
+
+### Official IBM starter run with this setup.
+
+> Example: https://github.com/aranajhonny/now-kitura-example.git
